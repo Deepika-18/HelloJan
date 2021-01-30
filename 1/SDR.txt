@@ -7,7 +7,7 @@ https://www.reddit.com/r/RTLSDR/comments/9i3s2g/nooby_witha_dumb_question_what_d
 
 	**course on udemy**
 https://www.udemy.com/course/mastering-software-defined-radio-with-gnu-radio-companion/
-=============
+=========
 
 >RTL SDR
 RTL-SDR is a very cheap ~$25 USB dongle that can be used as a computer based radio scanner for receiving live radio signals in your area (no internet required). ... The RTL-SDR is also sometimes referred to as RTL2832U, DVB-T SDR, DVB-T dongle, RTL dongle, or the "cheap software defined radio".
